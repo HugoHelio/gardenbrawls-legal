@@ -8,7 +8,7 @@ title: Garden Brawls — Privacy Policy
 
 This policy explains what data the mobile game **Garden Brawls** (the "Game") collects, why, and what you can do about it. The Game is developed and published by **Helioso**, France — "we", "us".
 
-Contact: **heliosoconsulting@gmail.com**
+Contact: **contact@helioso.com**
 
 ## 1. Summary
 
@@ -54,7 +54,7 @@ Data may be processed on servers located outside your country, including in the 
 ## 6. Your choices and rights
 
 - **Change your display name** at any time in **Options**.
-- **Delete your account and data**: in **Options → Delete account**, or by emailing us at heliosoconsulting@gmail.com with the subject "Delete my Garden Brawls data". Uninstalling the Game alone does **not** delete your online data.
+- **Delete your account and data**: in **Options → Delete account**, or by emailing us at contact@helioso.com with the subject "Delete my Garden Brawls data". Uninstalling the Game alone does **not** delete your online data.
 - Depending on where you live (for example under the GDPR), you may also ask to **access**, **correct**, **export** or **restrict** your data, or **object** to its use. Contact us at the address above. EU users can also file a complaint with their data protection authority (in France: the CNIL, <https://www.cnil.fr>).
 
 ## 7. Children
@@ -71,4 +71,4 @@ We may update this policy, for example when new features are added (such as a st
 
 ## 10. Contact
 
-Helioso — **heliosoconsulting@gmail.com**
+Helioso — **contact@helioso.com**
