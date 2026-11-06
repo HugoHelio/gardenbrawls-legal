@@ -4,7 +4,7 @@ title: Garden Brawls — Privacy Policy
 
 # Garden Brawls — Privacy Policy
 
-**Effective date:** 5/11/2026
+**Effective date:** 6/11/2026
 
 This policy explains what data the mobile game **Garden Brawls** (the "Game") collects, why, and what you can do about it. The Game is developed and published by **Helioso**, France — "we", "us".
 
