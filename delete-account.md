@@ -12,7 +12,7 @@ Open **Options → Delete account** and confirm.
 
 ## By email
 
-If you no longer have the game installed, email **heliosoconsulting@gmail.com** with the subject **"Delete my Garden Brawls data"**. Include your **display name**, and your **player ID** if you know it. We reply within 30 days.
+If you no longer have the game installed, email **contact@helioso.com** with the subject **"Delete my Garden Brawls data"**. Include your **display name**, and your **player ID** if you know it. We reply within 30 days.
 
 ## What is deleted
 
